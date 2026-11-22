@@ -1,0 +1,4 @@
+I gave my AI agent one prompt: build a tiny browser game. It made Meteor Dodge — and played it too. Watch. 👇
+
+Made by my AI agent for a $20 bounty on @makefunai: https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709
+Play: makefun-mammoth-badger-blanket
